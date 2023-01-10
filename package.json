@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "author": "Dani Dip",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,5 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+  },
+  "description": "A project of node!",
+  "keywords" : ["freecodecamp", "node", "npm"],
+  "license" : "MIT",
+  "version": "1.2.0"
 }
